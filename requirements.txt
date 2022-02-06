@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seaborn
+mito
+mitosheet
+lux-api
+lux
+sweetviz
+pandas_profiling
+dataprep
